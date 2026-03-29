@@ -77,9 +77,9 @@ Set up professional profiles on the following platforms:
 
 | Platform | Profile Link |
 |----------|-------------|
-| GitHub | [your-username](https://github.com/your-username) |
-| LinkedIn | [your-linkedin](https://linkedin.com/in/your-profile) |
-| Kaggle | [your-kaggle](https://kaggle.com/your-profile) |
+| GitHub | [your-username](https://github.com/mkpro442) |
+| LinkedIn | [your-linkedin](www.linkedin.com/in/mayank-khamari-9a91353bb) |
+| Kaggle | [your-kaggle](https://www.kaggle.com/mayankkhamari) |
 
 📂 See: [`task-2-portfolio/`](./task-2-portfolio/)
 
