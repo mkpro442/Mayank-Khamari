@@ -7,9 +7,9 @@
 
 | Field | Details |
 |-------|---------|
-| **Name** | Your Name Here |
-| **Registration No.** | Your Reg No. Here |
-| **Branch** | Your Branch Here |
+| **Name** | Mayank Khamari |
+| **Registration No.** | 25BAI10648 |
+| **Branch** | AIML |
 | **Year** | First Year B.Tech |
 | **Course Code** | CSE0001 |
 | **Course Title** | Digital Literacy |
